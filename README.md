@@ -1,5 +1,7 @@
 # codex-reset-guardian
 
+**English** | [中文](README.zh-CN.md)
+
 > Audit and forecast your OpenAI Codex usage limits — and stop wasting banked resets.
 
 `codex-reset-guardian` reads the data your local Codex CLI/Desktop already writes to disk
